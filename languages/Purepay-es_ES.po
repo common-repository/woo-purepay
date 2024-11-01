@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <ryantaber17@gmail.com>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-06 16:03-0400\n"
+"PO-Revision-Date: 2020-05-10 16:19-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: Ryan Taber"
+"Language: es\n"
+
+#: woocommerce-purepay.php:59
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/purepay.php:29
+msgid " hosted works by sending the user to "
+msgstr " obras alojadas enviando al usuario a "
+
+#: classes/purepay.php:133
+msgid "Enable/Disable"
+msgstr "Habilitar/Deshabilitar"
+
+#: classes/purepay.php:134
+msgid "Enable "
+msgstr "Habilitar "
+
+#: classes/purepay.php:141
+msgid "Title"
+msgstr "Título"
+
+#: classes/purepay.php:143
+msgid "This controls the title which the user sees during checkout."
+msgstr "Esto controla el título que el usuario ve durante el pago."
+
+#: classes/purepay.php:148
+msgid "Type of integration"
+msgstr "Tipo de integración"
+
+#: classes/purepay.php:155
+msgid "This controls method of integration."
+msgstr "Este método controla la integración."
+
+#: classes/purepay.php:160
+msgid "Description"
+msgstr "Descripción"
+
+#: classes/purepay.php:162
+msgid "This controls the description which the user sees during checkout."
+msgstr "Esto controla la descripción que el usuario ve al durante el pago."
+
+#: classes/purepay.php:167
+msgid "Merchant ID"
+msgstr "Identificación del comerciante"
+
+#: classes/purepay.php:169
+msgid "Please enter your "
+msgstr "Por favor, introduzca su "
+
+#: classes/purepay.php:174
+msgid "Signature Key"
+msgstr "Clave de la firma"
+
+#: classes/purepay.php:176
+msgid ""
+"Please enter the signature key for the merchant account. This can be changed "
+"in the <a href=\""
+msgstr ""
+"Introduzca la clave de firma para la cuenta de comerciante. Esto se puede "
+"cambiar en el MMS"
+
+#: classes/purepay.php:181
+msgid "Responsive form"
+msgstr " Formulario reactivo\t"
+
+#: classes/purepay.php:187
+msgid "This controls whether the payment form is responsive."
+msgstr "Esto controla si el formulario de pago es reactivo."
+
+#: classes/purepay.php:192
+msgid "Gateway URL"
+msgstr "URL de acceso"
+
+#: classes/purepay.php:194
+msgid "Allows the use of custom forms. Leave blank to use default"
+msgstr ""
+"Permite el uso de formularios personalizados. Deje en blanco para usar el "
+"valor predeterminado"
+
+#: classes/purepay.php:198
+msgid "Country Code"
+msgstr "Código de país"
+
+#: classes/purepay.php:200
+msgid ""
+"Please enter your 3 digit <a href=\"http://en.wikipedia.org/wiki/"
+"ISO_3166-1\" target=\"_blank\">ISO country code</a>"
+msgstr ""
+"Please enter your 3 digit <a href=\"http://en.wikipedia.org/wiki/"
+"ISO_3166-1\" target=\"_blank\">ISO country code</a>"
+
+#: classes/purepay.php:205
+msgid "Failed Order Message"
+msgstr "Mensaje de la orden fallida"
+
+#: classes/purepay.php:207
+msgid ""
+"Use this feild to customize the message shown when a customers card is "
+"declined."
+msgstr ""
+"Utilice este campo para personalizar el mensaje que se muestra cuando se "
+"rechaza una tarjeta de cliente."
+
+#: classes/purepay.php:297
+msgid "Thank you for your order, please click the button below to pay with "
+msgstr ""
+"Gracias por su pedido, por favor haga clic en el botón de abajo para pagar "
+"con "
+
+#: classes/purepay.php:303 classes/purepay.php:398
+msgid "Pay securely via "
+msgstr "Pague de forma segura a través de "
+
+#: classes/purepay.php:304 classes/purepay.php:399
+msgid "Cancel order"
+msgstr "Cancelar el pedido"
+
+#: classes/purepay.php:469 classes/purepay.php:642 classes/purepay.php:676
+#: classes/purepay.php:770
+msgid "Payment error: "
+msgstr "Error de pago: "
+
+#: classes/purepay.php:477
+msgid ""
+" payment failed. Communication error with server or an empty response was "
+"received"
+msgstr ""
+" El pago falló. Error de comunicación con el servidor o se recibió una "
+"respuesta vacía"
+
+#: classes/purepay.php:637 classes/purepay.php:760
+msgid " payment completed."
+msgstr " Pago completado."
+
+#: classes/purepay.php:647
+msgid " payment failed."
+msgstr " El pago falló."
+
+#: classes/purepay.php:649
+msgid "Payment error: Your Card Was Declined or Rejected."
+msgstr "Error de pago: Su tarjeta fue rechazada."
+
+#: classes/purepay.php:682 classes/purepay.php:771
+msgid " payment failed"
+msgstr " El pago falló"
+
+#: classes/purepay.php:765
+msgid " payment failed with signature error."
+msgstr " El pago falló con un error de firma."
